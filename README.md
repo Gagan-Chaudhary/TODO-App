@@ -1,6 +1,6 @@
 # Todo App Using Reactjs and Firebase
-## Checkout the app here 👇:
-### [Todo App](https://todo-app-cp-4bed8.web.app/)
+## Checkout the app here 👉: [Todo App](https://todo-app-cp-4bed8.web.app/)
+ 
 ***
 ![alt text](https://github.com/Gagan-Chaudhary/TODO-App/blob/main/src/Screenshot/Screenshot.png)
 
