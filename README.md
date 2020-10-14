@@ -1,10 +1,10 @@
 ## Checkout the app here 👇:
 ### [Todo App](https://todo-app-cp-4bed8.web.app/)
-**
+***
 ![alt text](https://github.com/Gagan-Chaudhary/TODO-App/blob/main/src/Screenshot/Screenshot.png)
 
 
---
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
