@@ -1,0 +1,87 @@
+.App {
+
+  text-align: center;
+    position: relative;
+    min-height: 86vh;
+    font-family: 'Playball', cursive;
+
+}
+
+.write{
+  font-weight: bold;
+}
+.main{
+  text-align: center;
+  /* font-family: 'Chewy', cursive; */
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+
+.list{
+  margin: 40px auto;
+  width: 40%;
+  padding: 0%;
+  background-color: rgb(255, 183, 183);
+  font-family: 'Pattaya', sans-serif;
+  font-weight: 100;
+  box-shadow: 0 0 13px 1px rgb(185, 185, 173);
+}
+
+.list:empty{
+  box-shadow: none;
+}
+.add{
+  margin-top: 10px;
+  
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 0px;  
+  text-align: center;
+  /* font-family: 'Sansita Swashed', cursive; */
+}
+
+.footer a{
+  text-decoration: none;
+  color: blue;
+}
+
+@media only screen and (min-device-width: 768px) {
+  /* For desktop: */
+  .list{
+
+    margin: 40px auto;
+    width: 30%;
+    padding: 0%;
+    background-color: whitesmoke;
+    box-shadow: 0 0 13px 1px rgb(185, 185, 173);
+  }
+
+}
+
+@media only screen and (max-device-width: 480px) {
+  /* For mobile: */
+  .App {
+   text-align: center;
+      position: relative;
+      min-height: 80vh;
+  
+  }
+  .list{
+    margin: 40px auto;
+    width: 60%;
+    padding: 10px;
+    background-color: whitesmoke;
+  
+    box-shadow: 0 0 13px 1px rgb(185, 185, 173);
+  }
+  .list:empty{
+    box-shadow: none;
+    background: none;
+  }
+
+}
